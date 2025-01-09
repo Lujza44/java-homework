@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"cz.cuni.mff.milotovl.hello"},{"l":"cz.cuni.mff.milotovl.programs"},{"l":"cz.cuni.mff.milotovl.util"},{"l":"exercises"}];updateSearchResults();
